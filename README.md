@@ -1,7 +1,7 @@
 # Test Cases Documentation
 
 ## Overview
-This document provides details of the automated test cases implemented using the **Page Object Model (POM)** with a **BaseTest class**. The test results are generated using **Extent Reports**.
+ It provides details of the automated test cases implemented using the **Page Object Model (POM)** with a **BaseTest class**. The test results are generated using **Extent Reports**.
 
 ---
 
