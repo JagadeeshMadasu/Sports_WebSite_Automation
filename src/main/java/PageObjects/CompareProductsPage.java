@@ -1,4 +1,4 @@
-package jagadeesh.PageObjects;
+package PageObjects;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import jagadeesh.TestComponents.BaseTest;
+import TestComponents.BaseTest;
 
 public class CompareProductsPage extends BaseTest{
 	

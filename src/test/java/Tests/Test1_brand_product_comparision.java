@@ -1,4 +1,4 @@
-package jagadeesh.Tests;
+package Tests;
 
 import java.util.Arrays;
 import java.util.List;
@@ -6,8 +6,8 @@ import java.util.List;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import jagadeesh.TestComponents.BaseTest;
-import jagadeesh.PageObjects.*;
+import PageObjects.*;
+import TestComponents.BaseTest;
 
 
 public class Test1_brand_product_comparision extends BaseTest{

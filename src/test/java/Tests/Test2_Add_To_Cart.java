@@ -1,10 +1,10 @@
-package jagadeesh.Tests;
+package Tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import jagadeesh.PageObjects.*;
-import jagadeesh.TestComponents.BaseTest;
+import PageObjects.*;
+import TestComponents.BaseTest;
 
 
 public class Test2_Add_To_Cart extends BaseTest{

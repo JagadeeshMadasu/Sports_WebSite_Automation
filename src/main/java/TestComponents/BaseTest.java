@@ -1,4 +1,4 @@
-package jagadeesh.TestComponents;
+package TestComponents;
 
 import org.openqa.selenium.*;
 import org.testng.ITestResult;
@@ -7,6 +7,8 @@ import org.testng.annotations.*;
 import com.aventstack.extentreports.*;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+
+import PageObjects.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,7 +19,6 @@ import java.util.Map;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import jagadeesh.PageObjects.*;
 import org.apache.commons.io.FileUtils;
 import java.util.Date;
 
